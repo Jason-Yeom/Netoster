@@ -30,7 +30,7 @@ pip install scapy tkinter
 1. **Clone or download** the Netoster script
 2. **Run with full privileges** for best results:
 
-**Linux/macOS(I LIKE LINUX!!!!!!):**
+**Linux/macOS(not tested on macOS tbh):**
 sudo python3 Netoster.py
 
 _at the place where you downloaded the code_
